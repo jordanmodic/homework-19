@@ -159,7 +159,19 @@ img {
 .case-study-text:nth-child(2) {
     align-items: flex-end;
 }
-.button {
+.button-one {
+    width: 5em;
+    border: solid #FFD5C4;
+    text-align: center;
+    background-color: #FFD5C4;
+}
+.button-two {
+    width: 5em;
+    border: solid #FFD5C4;
+    text-align: center;
+    background-color: #FFD5C4;
+}
+.button-three {
     width: 5em;
     border: solid #FFD5C4;
     text-align: center;

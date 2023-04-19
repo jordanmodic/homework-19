@@ -1,8 +1,20 @@
 
 console.log("Your index.js file is loaded correctly!");
-$(".case-study-content").mouseover(function(){
-    $(".button").fadeIn();
+$(".one").mouseover(function(){
+    $(".button-one").fadeIn();
 });
-$(".case-study-content").mouseleave(function(){
-    $(".button").fadeOut();
+$(".one").mouseleave(function(){
+    $(".button-one").fadeOut();
+})
+$(".two").mouseover(function(){
+    $(".button-two").fadeIn();
+});
+$(".two").mouseleave(function(){
+    $(".button-two").fadeOut();
+})
+$(".three").mouseover(function(){
+    $(".button-three").fadeIn();
+});
+$(".two").mouseleave(function(){
+    $(".button-three").fadeOut();
 })
