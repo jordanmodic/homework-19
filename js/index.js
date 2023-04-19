@@ -15,6 +15,6 @@ $(".two").mouseleave(function(){
 $(".three").mouseover(function(){
     $(".button-three").fadeIn();
 });
-$(".two").mouseleave(function(){
+$(".three").mouseleave(function(){
     $(".button-three").fadeOut();
 })
