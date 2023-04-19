@@ -164,18 +164,21 @@ img {
     border: solid #FFD5C4;
     text-align: center;
     background-color: #FFD5C4;
+    margin-top: 5%;
 }
 .button-two {
     width: 5em;
     border: solid #FFD5C4;
     text-align: center;
     background-color: #FFD5C4;
+    margin-top: 5%;
 }
 .button-three {
     width: 5em;
     border: solid #FFD5C4;
     text-align: center;
     background-color: #FFD5C4;
+    margin-top: 5%;
 }
 .view {
     font-size: 16px;
